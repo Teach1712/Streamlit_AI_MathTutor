@@ -1,0 +1,5 @@
+streamlit
+huggingface_hub
+groq
+python-dotenv
+requests
